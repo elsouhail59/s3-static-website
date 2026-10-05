@@ -13,4 +13,4 @@ A static website deployed on Amazon S3 using S3 static website hosting (region: 
 Windows hides file extensions by default; fixed by renaming and re-uploading with the exact key
 
 ## Live site
-http://souhail585768187948.s3-website.us-east-2.amazonaws.com/
+http://souhail-portfolio-site.s3-website.us-east-2.amazonaws.com/
